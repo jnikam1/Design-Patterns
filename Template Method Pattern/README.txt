@@ -1,12 +1,4 @@
 ======================================= Design Pattern ===============================================
---------------------------------------- Assignment 01 ------------------------------------------------ 
-Team Members:
-
-Name: Bhawesh Sehgal
-BUID:
-
-Name: Jayesh Nikam
-BUID: B00850264
 
 Description:
 The idea is to create a Template Method Pattern parent class and just work on the two methods boolean checkGenEds() and abstract boolean checkForeignLang()
